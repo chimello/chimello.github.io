@@ -12,6 +12,9 @@
         <h1 style="text-align:center;">Bem Vindo a minha página</h1>
         <p style="text-align:center;">Olá, meu nome é João Chimello, sou desenvolvedor PHP.</p>
     </div>
+    <div class="form-control alert alert-danger d-flex justify-content-center">
+        <h2 class="center">ATENÇÃO! ESTA PÁGINA ESTÁ EM DESENVOLVIMENTO!</h2>
+    </div>
     <div class="form-control">
         <a href="https://www.github.com/chimello">
             <img class="img-thumbnail" alt="Foto de Perfil" src="assets/images/perfil.jpg" alt="">
